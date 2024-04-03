@@ -1,0 +1,10 @@
+<Configuration>
+    <Add OfficeClientEdition="64" Channel="Broad">
+        <Product ID="O365ProPlusRetail">
+            <Language ID="pt-br"/>
+	    <ExcludeApp ID="Publisher"/>
+        </Product>
+    </Add>
+	<Updates Enabled="FALSE" UpdatePath="" Channel="Broad" />
+    <Display Level="None" AcceptEULA="TRUE"/>
+</Configuration>
